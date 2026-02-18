@@ -50,6 +50,9 @@ INSTALLED_APPS = [
     'doctor',
     'billing',
     'appointment',
+    
+    # packages
+    'rangefilter',
 ]
 
 MIDDLEWARE = [
